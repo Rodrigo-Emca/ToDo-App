@@ -16,3 +16,21 @@ Algunas recomendaciones/opciones a la hora de crear la app:
 8. Notificaciones y recordatorios: Considera la posibilidad de incluir recordatorios para los usuarios, como recordarles comprar ingredientes faltantes o sugerir recetas basadas en sus preferencias y hábitos de cocina.
 9. Personalización: Permite a los usuarios personalizar su perfil y ajustar preferencias, como unidades de medida, dietas especiales o alergias alimentarias.
 10. Integración con redes sociales: Ofrece la posibilidad de compartir recetas en plataformas de redes sociales populares, lo que puede ayudar a aumentar la visibilidad y atraer a nuevos usuarios.
+
+Posibles nombres para la app:
+
+1. CookBookKeeper
+2. RecipeSaver
+3. FlavorFolio
+4. Chef'sVault
+5. PantryPal
+6. CookCalc
+7. DishDiary
+8. FlavorCost
+9. RecipeRegistrar
+10. CookMinder
+11. SavoryStash
+12. IngredientCoster
+13. FlavorTracker
+14. CookBudget
+15. RecipeWallet
